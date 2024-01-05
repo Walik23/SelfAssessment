@@ -7,44 +7,44 @@
   - Non-structured programming
   - Functional programming 👂 heard
   - Prototype-based programming
-  - Object-oriented programming 👂 heard
+  - Object-oriented programming 🖐️ used
   - Object-based programming
   - Generic programming
   - Concurrent computing
-  - Asyncronous programming 👂 heard
-  - Parallel programming
+  - Asyncronous programming 🖐️ used
+  - Parallel programming 👂 heard
   - Reactive programming
   - FRP (Functional-reactive)
   - Automata-based programming
   - Domain-specific languages
-  - Multi-paradigm programming
+  - Multi-paradigm programming 👂 heard
   - Metaprogramming
   - Actor model
 - OOP basics
-  - constructor 👂 heard
-  - new 👂 heard
-  - Static method 👂 heard
-  - Method 👂 heard
-  - Async method
-  - Getters, Setters 👂 heard
-  - Public fields
-  - Private fields
-  - Field declarations
-  - Inheritance
-  - Parent class
-  - Polymorphism
-  - Abstract class
-  - Interface
-  - Encapsulation
-  - Hidden class
-  - Object form
-  - instance
-  - Introspection
-  - Reflection
+  - constructor 🖐️ used
+  - new 🖐️ used
+  - Static method 🖐️ used
+  - Method 🖐️ used
+  - Async method 🖐️ used
+  - Getters, Setters 🖐️ used
+  - Public fields 🖐️ used
+  - Private fields 🖐️ used
+  - Field declarations 🖐️ used
+  - Inheritance 🖐️ used
+  - Parent class 🖐️ used
+  - Polymorphism 🖐️ used
+  - Abstract class 🖐️ used
+  - Interface 👂 heard
+  - Encapsulation 🖐️ used
+  - Hidden class 👂 heard
+  - Object form 👂 heard
+  - instance 🖐️ used
+  - Introspection 👂 heard
+  - Reflection 👂 heard
 - Patterns
-  - Singleton
-  - Factory Method
-  - Abstract Factory
+  - Singleton 👂 heard
+  - Factory Method 👂 heard
+  - Abstract Factory 👂 heard
   - Adapter
   - Observer
   - Strategy
@@ -52,11 +52,11 @@
   - Proxy
   - Chain of Responsibility
   - Command
-  - Iterator
+  - Iterator 👂 heard
   - State
   - Bridge
   - Builder
-  - Prototype
+  - Prototype 👂 heard
   - Composite
   - Decorator
   - Flyweight

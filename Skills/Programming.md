@@ -12,22 +12,22 @@
   - function 🖐️ used
   - procedure 🖐️ used
   - method 🖐️ used
-  - class 👂 heard
-  - prototype 👂 heard
-  - event
+  - class 🖐️ used
+  - prototype 🖐️ used
+  - event 🖐️ used
   - type 🖐️ used
   - primitive types 🖐️ used
   - reference types 🖐️ used
   - flag 🖐️ used
-  - lexical scope 👂 heard
+  - lexical scope 🖐️ used
   - code block 🖐️ used
   - conditions 🖐️ used
   - loops 🖐️ used
   - assignment 🖐️ used
   - regular expression 🖐️ used
-  - interface
+  - interface 👂 heard
   - contract
-  - module
+  - module 🖐️ used
   - call stack
 - Functions
   - signature 🖐️ used
@@ -36,54 +36,54 @@
   - pure function 🖐️ used
   - lambda expression 🖐️ used
   - side effects 🖐️ used
-  - closure 👂 heard
+  - closure 🖐️ used
   - partial application
-  - curry
-  - higher order 👂 heard
-  - recursion 👂 heard
-  - callback 👂 heard
+  - curry 👂 heard
+  - higher order 🖐️ used
+  - recursion 🖐️ used
+  - callback 🖐️ used
   - listener 🖐️ used
-  - compose
-  - pipe
-  - memoize
-  - wrapper
+  - compose 🖐️ used
+  - pipe 🖐️ used
+  - memoize 👂 heard
+  - wrapper 👂 heard
   - functor 👂 heard
   - monad
   - monoid
-  - generator
+  - generator 👂 heard
   - coroutine
 - Data structures
   - array 🖐️ used
   - structure 🖐️ used
   - record 🖐️ used
-  - enum
+  - enum 👂 heard
   - instance
   - object 🖐️ used
-  - class 👂 heard
+  - class 🖐️ used
   - collection 🖐️ used
-  - set
-  - hash table
-  - linked list
+  - set 🖐️ used
+  - hash table 👂 heard
+  - linked list 👂 heard
   - doubly list
   - unrolled list
   - circular list
-  - queue
-  - stack
+  - queue 👂 heard
+  - stack 👂 heard
   - deque
   - tree 🖐️ used
   - graph 🖐️ used
-  - iterator
+  - iterator 🖐️ used
   - mutable state
   - immutable state
   - serialization
-  - string parsing
+  - string parsing 🖐️ used
 - Process & style
   - compiler 🖐️ used
-  - transpiler
+  - transpiler 👂 heard
   - linter
   - polyfill
   - debugger 👂 heard
-  - garbage collection
+  - garbage collection 👂 heard
   - refactoring 🖐️ used
   - code review 🖐️ used
   - antipatterns 👂 heard
@@ -94,13 +94,13 @@
   - complexity 
   - decomposition 👂 heard
   - spaghetti 👂 heard
-  - silver bullet
-  - not invented here
+  - silver bullet 👂 heard
+  - not invented here 👂 heard
   - dead code 👂 heard
   - unreachable code 👂 heard
   - duplicate code 👂 heard
-  - exception
-  - return early
-  - unittest
+  - exception 🖐️ used
+  - return early 🖐️ used
+  - unittest 👂 heard
   - git 🖐️ used
   - github 🖐️ used
