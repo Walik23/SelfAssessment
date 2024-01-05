@@ -1,17 +1,17 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming
-  - Imperative programming
-  - Structured programming
+  - Procedural programming 🖐️ used
+  - Imperative programming 🖐️ used
+  - Structured programming 🖐️ used
   - Non-structured programming
-  - Functional programming
+  - Functional programming 👂 heard
   - Prototype-based programming
-  - Object-oriented programming
+  - Object-oriented programming 👂 heard
   - Object-based programming
   - Generic programming
   - Concurrent computing
-  - Asyncronous programming
+  - Asyncronous programming 👂 heard
   - Parallel programming
   - Reactive programming
   - FRP (Functional-reactive)
@@ -21,12 +21,12 @@
   - Metaprogramming
   - Actor model
 - OOP basics
-  - constructor
-  - new
-  - Static method
-  - Method
+  - constructor 👂 heard
+  - new 👂 heard
+  - Static method 👂 heard
+  - Method 👂 heard
   - Async method
-  - Getters, Setters
+  - Getters, Setters 👂 heard
   - Public fields
   - Private fields
   - Field declarations
