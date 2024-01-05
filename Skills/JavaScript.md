@@ -1,7 +1,7 @@
 ## Programming fundamental concepts
 
 - Language
-  - Object 🙋 explained
+  - Object 🖐️ used
   - this 🖐️ used
   - arrow function 🖐️ used
   - async function 🖐️ used
@@ -41,16 +41,16 @@
   - Symbol 👂 heard
   - Reflect 👂 heard
 - Statements
-  - if 🙋 explained
-  - while 🙋 explained
-  - do..while 🙋 explained
-  - for 🙋 explained
-  - for..in 🙋 explained
-  - for..of 🙋 explained
+  - if 🖐️ used
+  - while 🖐️ used
+  - do..while 🖐️ used
+  - for 🖐️ used
+  - for..in 🖐️ used
+  - for..of 🖐️ used
   - for await 🖐️ used
   - throw 🖐️ used
-  - break 🙋 explained
-  - continue 🙋 explained
+  - break 🖐️ used
+  - continue 🖐️ used
   - import 🖐️ used
   - export 🖐️ used
   - label 👂 heard
@@ -62,11 +62,11 @@
 - Functions
   - function declaration 🖐️ used
   - function expression 🖐️ used
-  - return 🙋 explained
+  - return 🖐️ used
   - default parameters 🖐️ used
   - functional object
 - Data structures
-  - Array 🙋 explained
+  - Array 🖐️ used
   - mixin 👂 heard
   - extend 🖐️ used
   - typed arrays 👂 heard
