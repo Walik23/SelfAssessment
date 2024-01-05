@@ -1,45 +1,45 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop 👂 heard
-  - try..catch 👂 heard
-  - Non-blocking
-  - Async I/O
-  - Thread pool
-  - Pattern Reactor
-  - CAS operations
-  - epoll
-  - kqueue
-  - Completion ports
+  - Event loop 🖐️ used
+  - try..catch 🖐️ used
+  - Non-blocking 🖐️ used
+  - Async I/O 🖐️ used
+  - Thread pool 👂 heard
+  - Pattern Reactor 👂 heard
+  - CAS operations 👂 heard
+  - epoll 👂 heard
+  - kqueue 👂 heard
+  - Completion ports 👂 heard
   - Event ports
   - libuv
-  - Race conditions
-  - Dead locks
-  - Live locks
-  - Concurrent programming
-  - Parallel programming
+  - Race conditions 👂 heard
+  - Dead locks 👂 heard
+  - Live locks 👂 heard
+  - Concurrent programming 👂 heard
+  - Parallel programming 👂 heard
   - Actor Model
   - Thread
   - Process
 - Async contracts
-  - Callbacks 👂 heard
-  - Callback-last-error-first
-  - Thenable
-  - Promise 👂 heard
-  - Async/await 👂 heard
-  - Future
-  - Deferred
+  - Callbacks 🖐️ used
+  - Callback-last-error-first 🖐️ used
+  - Thenable 🖐️ used
+  - Promise 🖐️ used
+  - Async/await 🖐️ used
+  - Future 🖐️ used
+  - Deferred 👂 heard
   - Sync generator
   - Async Generator
   - Async Iterator
-  - Event
+  - Event 🖐️ used
   - Coroutine
   - Goroutine
   - Signal
-  - Stream
+  - Stream 👂 heard
   - Chain of responsibility
   - Middleware
-  - Locks
+  - Locks 👂 heard
 - Async adapters and utils
   - callbackify
   - promisify
@@ -59,9 +59,9 @@
   - Mutex
   - Spin Lock
 - JavaScript & Node.js specific
-  - Timers 👂 heard
-  - setImmediate
-  - nextTick
+  - Timers 🖐️ used
+  - setImmediate 🖐️ used
+  - nextTick 👂 heard
   - AbortController
   - AbortSignal
   - Promise unhandled rejection
@@ -70,10 +70,10 @@
   - worker_threads
   - Atomics
   - High resolution clock
-  - Callback hell
-  - Promise hell
+  - Callback hell 👂 heard
+  - Promise hell 👂 heard
   - ref() and unref()
-  - Error handling in async code
+  - Error handling in async code 🖐️ used
   - Better stack traces with return await
   - JSON: streaming serialization
   - promisify
